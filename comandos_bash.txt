@@ -9,6 +9,8 @@ mkdir -> cria uma pasta nova no diretorio
 cat -> abre um arquivo
 git init . -> transforma em uma pasta do git
 rm -rf .git/ -> exclui a pasta git para tornar uma pasta normal - CUIDADO!!!!!
+rm -> remove arquivo ou diretório
+
 
 Comandos Git:
 

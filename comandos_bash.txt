@@ -17,3 +17,5 @@ Comandos Git:
 git status -> status da pasta
 git add <file> -> é o que quero que vá para o commit
 git commit -m "mensagem de texto" -> pra fazer o commit
+
+fodase

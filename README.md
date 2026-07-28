@@ -1,6 +1,7 @@
 # Curso TMW Git & GitHub
 
-Curso para aprendizado e prática do versionamento de código e repositórios remotos com GitHub.
+Curso para aprendizado e prática do versionamento de código com Git e repositórios remotos com GitHub.
+Utilizando VSCode
 
 ## Fluxo de trabalho Git Local
 
